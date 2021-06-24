@@ -1,0 +1,418 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-07-15 23:21+0600\n"
+"PO-Revision-Date: 2020-07-15 23:21+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_attr__;esc_attr_e;esc_html__;"
+"esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:23
+msgid "404!"
+msgstr ""
+
+#: 404.php:24
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:28
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:38
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:81
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:90
+msgid "Leave A Reply"
+msgstr ""
+
+#: footer.php:35
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:38
+#, php-format
+msgid "Proudly powered by %s."
+msgstr ""
+
+#: footer.php:38
+msgid "WordPress"
+msgstr ""
+
+#: functions.php:64
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:133
+msgid "Strong Blue"
+msgstr ""
+
+#: functions.php:138
+msgid "Lighter Blue"
+msgstr ""
+
+#: functions.php:143
+msgid "Very Light Gray"
+msgstr ""
+
+#: functions.php:148
+msgid "Very Dark Gray"
+msgstr ""
+
+#: functions.php:189
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:191
+msgid "Add widgets here."
+msgstr ""
+
+#: header.php:48
+msgid "T"
+msgstr ""
+
+#: header.php:49
+msgid "O"
+msgstr ""
+
+#: header.php:50
+msgid "P"
+msgstr ""
+
+#: header.php:150
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: header.php:153
+msgid "Error 404."
+msgstr ""
+
+#: header.php:159
+msgid "Blog"
+msgstr ""
+
+#: inc/classes/class-titiksha-comment.php:86
+msgid "Edit"
+msgstr ""
+
+#: inc/classes/class-titiksha-comment.php:96
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/classes/class-titiksha-navwalker.php:314
+msgid "Add a menu"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Titiksha Options"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer.php:69
+msgid "Enable header search"
+msgstr ""
+
+#: inc/customizer.php:82
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer.php:103
+msgid "Theme Color"
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "Post Slider"
+msgstr ""
+
+#: inc/customizer.php:134
+msgid "Enable Post Slide"
+msgstr ""
+
+#: inc/customizer.php:152 inc/customizer.php:276
+msgid "Number of posts"
+msgstr ""
+
+#: inc/customizer.php:155 inc/customizer.php:279
+msgid "Put minimum value 2"
+msgstr ""
+
+#: inc/customizer.php:171 inc/customizer.php:295
+msgid "Select Category"
+msgstr ""
+
+#: inc/customizer.php:172 inc/customizer.php:296
+msgid "Please select the category for the carousel"
+msgstr ""
+
+#: inc/customizer.php:192 inc/customizer.php:316
+msgid "Order"
+msgstr ""
+
+#: inc/customizer.php:193 inc/customizer.php:317
+msgid ""
+"ASC - ascending order from lowest to highest values (1, 2, 3; a, b, c) & "
+"DESC - descending order from highest to lowest values (3, 2, 1; c, b, a)."
+msgstr ""
+
+#: inc/customizer.php:216 inc/customizer.php:340
+msgid "Order By"
+msgstr ""
+
+#: inc/customizer.php:217 inc/customizer.php:341
+msgid "Sort retrieved posts by parameter. Defaults to \"date\"."
+msgstr ""
+
+#: inc/customizer.php:240
+msgid "Post Carousel"
+msgstr ""
+
+#: inc/customizer.php:241
+msgid "It will be displayed below post slider on home page."
+msgstr ""
+
+#: inc/customizer.php:258
+msgid "Enable Post carousel"
+msgstr ""
+
+#: inc/customizer.php:366
+msgid "Post Archive"
+msgstr ""
+
+#: inc/customizer.php:384
+msgid "Post Archive Layout"
+msgstr ""
+
+#: inc/customizer.php:388 inc/customizer.php:502
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer.php:389 inc/customizer.php:503
+msgid "Sidebar Right"
+msgstr ""
+
+#: inc/customizer.php:390 inc/customizer.php:504
+msgid "Sidebar Left"
+msgstr ""
+
+#: inc/customizer.php:408 inc/customizer.php:522
+msgid "Remove Category"
+msgstr ""
+
+#: inc/customizer.php:427
+msgid "Remove Author Info"
+msgstr ""
+
+#: inc/customizer.php:446
+msgid "Remove Date"
+msgstr ""
+
+#: inc/customizer.php:465
+msgid "Remove Comment Info"
+msgstr ""
+
+#: inc/customizer.php:480
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer.php:498
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/customizer.php:541
+msgid "Remove Tag Info"
+msgstr ""
+
+#: inc/customizer.php:560
+msgid "Remove Post Navigation"
+msgstr ""
+
+#: inc/customizer.php:580
+msgid "Breadcrumb Bar Title"
+msgstr ""
+
+#: inc/customizer.php:594
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:610
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/template-functions.php:108
+msgid "Skip to the content"
+msgstr ""
+
+#: inc/template-functions.php:142
+msgid "Page"
+msgstr ""
+
+#: inc/template-functions.php:182
+msgid "Preveious"
+msgstr ""
+
+#: inc/template-functions.php:200
+msgid "Next"
+msgstr ""
+
+#: inc/template-functions.php:250
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:100 inc/template-tags.php:272
+#: inc/template-tags.php:343 template-parts/content-page.php:40
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/template-tags.php:261
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:262 inc/template-tags.php:333
+msgid "1"
+msgstr ""
+
+#: inc/template-tags.php:263 inc/template-tags.php:334
+msgid "%"
+msgstr ""
+
+#: inc/template-tags.php:332
+msgid "Comment"
+msgstr ""
+
+#: inc/widgets/class-titiksha-aboutme-widget.php:15
+msgid "Titiksha About Me"
+msgstr ""
+
+#: inc/widgets/class-titiksha-aboutme-widget.php:16
+msgid "Add about me section"
+msgstr ""
+
+#: inc/widgets/class-titiksha-aboutme-widget.php:53
+#: inc/widgets/class-titiksha-aboutme-widget.php:154
+msgid "About Me"
+msgstr ""
+
+#: inc/widgets/class-titiksha-aboutme-widget.php:116
+msgid "Image Upload"
+msgstr ""
+
+#: inc/widgets/class-titiksha-aboutme-widget.php:119
+msgid "Add Media"
+msgstr ""
+
+#: inc/widgets/class-titiksha-aboutme-widget.php:120
+msgid "Clear"
+msgstr ""
+
+#: inc/widgets/class-titiksha-aboutme-widget.php:125
+msgid "Description"
+msgstr ""
+
+#: inc/widgets/class-titiksha-aboutme-widget.php:131
+msgid "Read More Text"
+msgstr ""
+
+#: inc/widgets/class-titiksha-aboutme-widget.php:137
+msgid "Read More Link"
+msgstr ""
+
+#: inc/widgets/class-titiksha-aboutme-widget.php:157
+#: inc/widgets/class-titiksha-recentpost-widget.php:134
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/class-titiksha-recentpost-widget.php:14
+msgid "Recent posts with thumbnails"
+msgstr ""
+
+#: inc/widgets/class-titiksha-recentpost-widget.php:18
+msgid "Titiksha Latest Posts"
+msgstr ""
+
+#: inc/widgets/class-titiksha-recentpost-widget.php:105
+msgid "Number of posts "
+msgstr ""
+
+#: inc/widgets/class-titiksha-recentpost-widget.php:113
+#: inc/widgets/class-titiksha-recentpost-widget.php:119
+msgid "Display post date?"
+msgstr ""
+
+#: inc/widgets/class-titiksha-recentpost-widget.php:131
+msgid "Recent Post"
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:27
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:40
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:47
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:26 template-parts/content.php:59
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-slider.php:75
+msgid "READ MORE"
+msgstr ""
+
+#: template-parts/content.php:45
+#, php-format
+msgid "Continue reading <span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
