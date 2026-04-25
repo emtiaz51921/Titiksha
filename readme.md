@@ -2,17 +2,17 @@
 
 **Contributors:** emtiaz51921  
 **Author URI:** https://imtiazshamim.com/  
-**Requires at least:** 4.0  
-**Tested up to:** 5.4.1  
-**Requires PHP:** 5.5  
-**Stable tag:** 3.0.0  
-**Tags:** blog, one-column, two-columns, right-sidebar, left-sidebar, custom-background, custom-logo, custom-colors, custom-header, custom-menu, featured-images, full-width-template, sticky-post, theme-options, threaded-comments, editor-style, translation-ready  
+**Requires at least:** 6.0  
+**Tested up to:** 6.9.4  
+**Requires PHP:** 7.4  
+**Stable tag:** 2.0.0  
+**Tags:** blog, one-column, two-columns, three-columns, right-sidebar, left-sidebar, custom-background, custom-logo, custom-colors, custom-header, custom-menu, featured-images, full-width-template, sticky-post threaded-comments, translation-ready, editor-style, grid-layout
 
 ![header](https://raw.githubusercontent.com/emtiaz51921/Titiksha/master/screenshot.png)
 
 ## Description
 
-Titiksha is a simple WordPress blog theme. It is a minimalistic WordPress theme dedicated to bloggers. It is intuitive, well-structured and highly responsive, and it can be used for any kind of blog site. Titiksha comes with great customization options. All of them can be accessed using theme customizer. Blog Rider theme comes in one, two and three column layouts. It is modern, clean, colorful and responsive. The feature includes a full-width template, two-column layouts, custom widgets, post carousel, image lightbox, etc.
+Titiksha is a clean and minimal WordPress blog theme designed for bloggers, featuring responsive design, multiple layouts, and easy customization via the Customizer.
 
 
 
@@ -45,3 +45,14 @@ Please make sure to update tests as appropriate.
 ## License
 
 [GNU](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+## Changelog
+
+**2.0.0 - March 28 2026**
+* Tested up to WordPress 6.9 and PHP 8.2 compatibility.
+* Added missing screen reader text and ARIA labels.
+* Improved security and escaping in templates and widgets.
+* Added default Gutenberg block font sizes support.
+
+**1.0.7 - June 24 2021**
+* add accibility color enable/disable option.

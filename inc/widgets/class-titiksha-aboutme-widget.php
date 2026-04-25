@@ -140,8 +140,8 @@ class Titiksha_Aboutme_Widget extends WP_Widget {
 					break;
 				default:
 					$output .= '<p>';
-					$output .= '<label for="' . esc_attr( $this->get_field_id( $widget_field['id'] ) ) . '">' . esc_html( $widget_field['label'] ) . ':</label> ';
-					$output .= '<input class="widefat" id="' . esc_attr( $this->get_field_id( $widget_field['id'] ) ) . '" name="' . esc_attr( $this->get_field_name( $widget_field['id'] ) ) . '" type="' . esc_attr( $widget_field['type'] ) . '" value="' . esc_attr( $widget_value ) . '">';
+					$output .= '<label for="' . esc_attr( $this->get_field_id( $widget_field['id'] ) ) . '">' . esc_html( isset( $widget_field['label'] ) ? $widget_field['label'] : '' ) . ':</label> ';
+					$output .= '<input class="widefat" id="' . esc_attr( $this->get_field_id( $widget_field['id'] ) ) . '" name="' . esc_attr( $this->get_field_name( $widget_field['id'] ) ) . '" type="' . esc_attr( isset( $widget_field['type'] ) ? $widget_field['type'] : 'text' ) . '" value="' . esc_attr( $widget_value ) . '">';
 					$output .= '</p>';
 			}
 		}

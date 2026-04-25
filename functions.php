@@ -9,7 +9,7 @@
 
 if ( ! defined( 'TITIKSHA_VERSION' ) ) {
 	// Replace the version number of the theme on each release. 
-	define( 'TITIKSHA_VERSION', '1.0.5' );
+	define( 'TITIKSHA_VERSION', '2.0.0' );
 }
 
 if ( ! function_exists( 'titiksha_setup' ) ) :
@@ -148,6 +148,37 @@ if ( ! function_exists( 'titiksha_setup' ) ) :
 					'name'  => __( 'Very Dark Gray', 'titiksha' ),
 					'slug'  => 'very-dark-gray',
 					'color' => '#444',
+				),
+			)
+		);
+
+		// Add support for custom font sizes.
+		add_theme_support(
+			'editor-font-sizes',
+			array(
+				array(
+					'name'      => __( 'Small', 'titiksha' ),
+					'shortName' => __( 'S', 'titiksha' ),
+					'size'      => 14,
+					'slug'      => 'small',
+				),
+				array(
+					'name'      => __( 'Normal', 'titiksha' ),
+					'shortName' => __( 'M', 'titiksha' ),
+					'size'      => 16,
+					'slug'      => 'normal',
+				),
+				array(
+					'name'      => __( 'Large', 'titiksha' ),
+					'shortName' => __( 'L', 'titiksha' ),
+					'size'      => 24,
+					'slug'      => 'large',
+				),
+				array(
+					'name'      => __( 'Huge', 'titiksha' ),
+					'shortName' => __( 'XL', 'titiksha' ),
+					'size'      => 36,
+					'slug'      => 'huge',
 				),
 			)
 		);

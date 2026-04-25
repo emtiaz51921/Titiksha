@@ -1,12 +1,12 @@
 === Titiksha ===
 Contributors: emtiaz51921
-Requires at least: 4.0
-Tested up to: 5.4.1
-Requires PHP: 5.5
+Requires at least: 6.0
+Tested up to: 6.9.4
+Requires PHP: 7.4
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Titiksha is a simple WordPress blog theme licensed under the GPL. Use it to make something cool, have fun, and share what you've learned.
+Titiksha is a clean and minimal WordPress blog theme designed for bloggers, featuring responsive design, multiple layouts, and easy customization via the Customizer.
 
 == Description ==
 
@@ -42,6 +42,12 @@ Not for now.
 
 
 == Changelog ==
+
+= 2.0.0 - March 28 2026 =
+* Tested up to WordPress 6.9 and PHP 8.2 compatibility.
+* Added missing screen reader text and ARIA labels.
+* Improved security and escaping in templates and widgets.
+* Added default Gutenberg block font sizes support.
 
 = 1.0.7 - June 24 2021 =
 * add accibility color enable/disable option.
